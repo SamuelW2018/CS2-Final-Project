@@ -1,0 +1,2 @@
+TestPotion 0 0 50 0 0
+TestPotionTwo 0 0 40 0 0
